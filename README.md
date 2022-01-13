@@ -1,2 +1,2 @@
 # Contextual MAB
-A load balancer for contextual multi-armed-bandit problem with constraints
+A solution for contextual multi-armed-bandit problem with constraints
